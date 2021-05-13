@@ -31,7 +31,7 @@ The scatter plots showcase the following relationships:
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
-![Temperature vs. Latitude](./Weather_Analysis/Visualizations/Lat_v_temp.png)
+![Temperature vs. Latitude](./Weather_Analysis/Visualizations/Lat_v_Temp.png)
 
 Once the scatter plots were created a linear regression was ran on each relationship. This time, the plots were seperated into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude).
 
@@ -53,4 +53,4 @@ With data and weather collected for 500 cities, an analysis was completed to fil
 
 * Finally, a Plot was created with the hotels pinned on top of the humidity heatmap along with a tool tip containing the Hotel Name, City, and Country.
 
-  ![Hotel_Map](./Vacation_Analysis/Filtered_Hotels.png)
+  ![Hotel_Map](./Vacation_Analysis/Visualizations/Filtered_Hotels.png)
