@@ -2,11 +2,11 @@
 
 ## Introduction
 
-"What's the weather like as we approach the equator?". Anecdotally we understand the relationship between weather and latitude, but how can we use analysis and visualization techniques to scientifically prove our hypothesis? This model uses various data analysis and visualization tools to objectively answer the above asked question. 
+"What's the weather like as we approach the equator?" Fundamentally we understand the relationship between weather and latitude, but how can we use analysis and visualization techniques to scientifically prove our hypothesis? This model uses various data analysis and visualization tools to objectively answer the above asked question. 
 
 ### Technologies
 
-* Python 3.6
+* Python 3.6.4
 * Python requests
 * OpenWeaterMap API
 * Pandas
